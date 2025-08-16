@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UIF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0
+
+<title>Multimedia page</title>
+</head>
+<body>
+
+<h1>Welcome to the multimedia web page</h1>
+
+<!-- Adding an Audio Element -->
+<h2> Listen to This Audio</h2>
+<audio controls>
+	<Source type="audio/mpeg">
+    <Source type="audio/ogg">
+
+<!-- Adding a Video Element -->
+<h2> Watch This Video</h2>
+<Video controls poster="poster-image.jpg width=800" height="400">
+	<Source type="video/mp4">
+    <Source type="video/webm">
+    
+</body>
+</html>
+
